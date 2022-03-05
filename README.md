@@ -1,2 +1,2 @@
-# modular-monolith
-Modular Monolith Architecture
+# Modular Monolith
+Example Modular Monolith Architecture with .Net Core
